@@ -1,7 +1,4 @@
-package cz.roman.spanek.anv.y2026.pr02.creational.i;
-
-import cz.roman.spanek.anv.y2026.pr02.creational.i.before.Report;
-import cz.roman.spanek.anv.y2026.pr02.creational.i.before.ReportExporter;
+package cz.roman.spanek.anv.y2026.pr02.creational.i.before;
 
 public class Main {
     public static void main(String[] args) {
