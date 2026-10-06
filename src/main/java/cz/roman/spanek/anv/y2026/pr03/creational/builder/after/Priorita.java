@@ -1,0 +1,5 @@
+package cz.roman.spanek.anv.y2026.pr03.creational.builder.after;
+
+public enum Priorita {
+    NIZKA, NORMALNI, VYSOKA
+}
